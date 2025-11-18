@@ -1,0 +1,5 @@
+Django~=3.0.6
+gunicorn
+pycodestyle
+psycopg2-binary
+
